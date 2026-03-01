@@ -8,3 +8,8 @@ Currently in feature-login,
 Making changes to this file.
 
 This is the second version of change in the feature-login
+
+-----------------------------
+Currently working on a new feature 
+
+This is the first version of the new feature
