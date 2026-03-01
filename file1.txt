@@ -15,3 +15,5 @@ Currently working on a new feature
 This is the first version of the new feature
 
 This is the second version of the new feature
+
+This is the third version of the new feature
